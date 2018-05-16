@@ -11,7 +11,7 @@ gwasurvivr 0.99.0
 [gwasurvivr](https://github.com/suchestoncampbelllab/gwasurvivr)
 
 
-Abbas Rizvi, Ezgi Karaesmen, Martin Morgan and Lara Sucheston-Campbell
+1 Abbas Rizvi, 1 Ezgi Karaesmen, 2 Martin Morgan and 1 Lara Sucheston-Campbell
 
 1 The Ohio State University, Columbus, OH
 2 Roswell Park Comprehensive Cancer Center, Buffalo, NY
