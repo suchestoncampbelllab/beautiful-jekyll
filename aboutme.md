@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: 
+subtitle: A quick bio
 ---
 
 ## Lara Sucheston-Campbell, MS, PhD
