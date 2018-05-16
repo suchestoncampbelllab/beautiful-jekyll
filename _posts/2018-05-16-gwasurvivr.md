@@ -1,7 +1,7 @@
 ---
 layout: post
 title: gwasurvivr
-subtitle: An R/Bioconductor package to genome wide survival analyses
+subtitle: An R/Bioconductor package for genome wide survival analyses
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 tags: [gwas]
