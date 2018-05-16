@@ -7,7 +7,7 @@ tags: [gwas,exome,transplant,NT5E,TEX38]
 ---
 
 Exomechip Analyses Identify Genes Affecting Mortality after HLA-Matched 
-Unrelated Donor Blood and Marrow Transplantation 
+Unrelated Donor Blood and Marrow Transplantation, Blood. 2018 Apr 2 
 
 
 http://www.bloodjournal.org/content/bloodjournal/early/2018/04/02/blood-2017-11-817973.full.pdf?sso-checked=true
