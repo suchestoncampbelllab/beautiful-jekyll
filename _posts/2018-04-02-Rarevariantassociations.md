@@ -4,6 +4,7 @@ title: Rare germline variants and multiple genes associate with survival after H
 subtitle: A paper from the DISCOVeRY-BMT team
 #bigimg: /img/path.jpg
 tags: [gwas,exome,transplant,NT5E,TEX38]
+date: 2018-05-16 11:00
 ---
 
 Exomechip Analyses Identify Genes Affecting Mortality after HLA-Matched 
