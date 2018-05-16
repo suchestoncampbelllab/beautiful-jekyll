@@ -2,7 +2,7 @@
 layout: post
 title: B-ALL susceptibility differs by age and sex
 subtitle: A paper from the DISCOVeRY-BMT team
-date: 2018-05-16 13:00
+date: 2018-05-16 08:00
 tags: [B-ALL, adult ALL, gwas]
 ---
 
