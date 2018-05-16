@@ -6,14 +6,14 @@ subtitle: An R/Bioconductor package to genome wide survival analyses
 #gh-badge: [star, fork, follow]
 tags: [gwas]
 ---
-Abbas Rizvi1, Ezgi Karaesmen1, Martin Morgan2 and Lara Sucheston-Campbell1
+Abbas Rizvi 1, Ezgi Karaesmen 1, Martin Morgan 2 and Lara Sucheston-Campbell 1
 
-1The Ohio State University, Columbus, OH
-2Roswell Park Comprehensive Cancer Center, Buffalo, NY
+1 The Ohio State University, Columbus, OH
+2 Roswell Park Comprehensive Cancer Center, Buffalo, NY
 
 gwasurvivr 0.99.0
 
-gwasurvivr [https://github.com/suchestoncampbelllab/gwasurvivr]
+[gwasurvivr] (https://github.com/suchestoncampbelllab/gwasurvivr)
 
 Increasingly researchers have become interested in time-to-event outcomes in the context of genetic variation. Existing software for performing survival analyses across millions of SNPs are limited. Recently, comprehensive stand-alone software packages, genipe and SurvivalGWAS_SV, were developed, however, they require user interaction with the raw output after imputation opening room for error during analysis. GWASTools, while available in R and can implement survival, is primarily for storing large SNP datasets and rigorous QC/QA. To address this unmet need, we developed an R/Bioconductor package to conduct fast and efficient genome wide survival analyses on imputed genetic data generated using IMPUTE2 and VCF data generated from Michigan or Sanger imputation servers. 
 
