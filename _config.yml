@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "About Me"
+  About Me: "About Us"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Lara Sucheston-Campbell
+  name: Sucheston-Campbell Lab
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -74,7 +74,7 @@ social-network-links:
   rss: true
   email: "sucheston-campbell.1@osu.edu"
   #facebook: daattali
-  github: daattali
+  github: lsuchest
   twitter: lsuchcamp
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -82,7 +82,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: campbells13
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
