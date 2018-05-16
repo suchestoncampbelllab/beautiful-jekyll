@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Lara Sucheston-Campbell, MS, PhD
+I'm an Associate Professor at THE Ohio State University with joint appointments in the Colleges of Pharmacy and Veterinary Medicine; I am neither a pharmacist nor a vet (although I do have 7 cats). I graduated from Case Western Reserve University in 2007 with a PhD in Genetic and Molecular Epidemiology and from 2007-20016 I was faculty at the University of Buffalo and Roswell Park Cancer Institute.  Broadly my research is focused on identifying, quantifying, and characterizing the relationships between exposures and genomic variation that modifies susceptibility to complex phenotypes. 
+For the last several years I have explored gene-exposure relationships at a candidate gene and genome wide level in hematological malignancies, prostate and breast cancer, as well as body composition phenotypes. My main focus now is as PI of the multi-institute cohort study Determining the Influence of Susceptibility COnveying VaRiants 1 Year after Bone Marrow Transplant (DISCOVeRY-BMT),a multi-institutional multi-cohort study of donor and recipient genomic determinants of mortality after BMT. Consisting of two cohorts, two genomes and drug-genome interactions, this multi-institutional study of genomic determinants of mortality after unrelated donor transplant has provided many exciting and thought-provoking phenotypic and methodological challenges.
