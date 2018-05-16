@@ -8,7 +8,7 @@ tags: [gwas]
 ---
 gwasurvivr 0.99.0
 
-[gwasurvivr] (https://github.com/suchestoncampbelllab/gwasurvivr)
+[gwasurvivr](https://github.com/suchestoncampbelllab/gwasurvivr)
 
 
 Abbas Rizvi, Ezgi Karaesmen, Martin Morgan and Lara Sucheston-Campbell
