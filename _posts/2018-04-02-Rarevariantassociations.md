@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rare germline variants and multiple genes associate with survival after HLA-Matched unrelated BMT
+title: Rare germline variants and multiple genes associate with survival after HLA-matched unrelated donor BMT
 subtitle: A paper from the DISCOVeRY-BMT team
 #bigimg: /img/path.jpg
 tags: [gwas,exome,transplant,NT5E,TEX38]
