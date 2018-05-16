@@ -4,6 +4,7 @@ title: Genetic susceptibility to B-ALL differs by age and sex
 tags:[adult B-ALL,gwas]
 ---
 
+
 Genetic association with B-cell acute lymphoblastic leukemia in allogeneic transplant patients differs by age and sex
 
 
