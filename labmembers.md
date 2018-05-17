@@ -2,9 +2,8 @@
 layout: page
 title: Lab Members
 subtitle: The people who really do all the work
-bigimg:"https://github.com/suchestoncampbelllab/suchestoncampbelllab.github.io/LabPhoto.jpg" : "Happy Hour Festivities"
 ---
-
+![Lab Members](https://github.com/suchestoncampbelllab/suchestoncampbelllab.github.io/LabPhoto.jpg){:class="img-responsive"}
 ## Ezgi Karaesmen
 ## Leah Preus
 ## Abbas Rizvi
