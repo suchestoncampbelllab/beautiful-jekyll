@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rare germline variants in donors and recipients associate with survival after Blood or Marrow Transplant
+title: Rare germline variants in donors and recipients associate with survival after blood or marrow transplant
 subtitle: A paper from the DISCOVeRY-BMT team
 #bigimg: /img/path.jpg
 tags: [gwas,exome,transplant,NT5E,TEX38]
