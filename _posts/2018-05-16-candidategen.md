@@ -3,7 +3,7 @@ layout: post
 title: Replication and validation of candidate gene associations with transplant outcomes 
 subtitle: A paper from the DISCOVeRY-BMT team
 tags: [gwas,transplant,replication,validation]
-date: 2018-05-16 22:00
+date: 2018-05-16 01:00
 ---
 Replication and validation of genetic polymorphisms associated with survival after allogeneic blood or marrow transplant. Blood 2017 130:1585-1596
 
