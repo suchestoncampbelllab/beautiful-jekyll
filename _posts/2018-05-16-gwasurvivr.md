@@ -5,7 +5,7 @@ subtitle: An R/Bioconductor package for genome wide survival analyses
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 date: 2018-05-16 13:00
-tags: [gwas]
+tags: [gwas, survival]
 ---
 gwasurvivr 0.99.0
 
