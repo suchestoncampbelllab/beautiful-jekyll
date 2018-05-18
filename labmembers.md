@@ -3,8 +3,8 @@ layout: page
 title: Lab Members
 subtitle: The people who really do all the work
 ---
-![Lab Members](https://github.com/suchestoncampbelllab/suchestoncampbelllab.github.io/LabPhoto.jpg){:class="img-responsive"}
-## Ezgi Karaesmen
+
+## Ezgi Karaesmen https://karaesmen.github.io/aboutme/
 ## Leah Preus
 ## Abbas Rizvi
 ## Michael Sovic
