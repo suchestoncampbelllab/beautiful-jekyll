@@ -10,7 +10,7 @@ tags: [gwas, survival]
 gwasurvivr 0.99.0
 
 [gwasurvivr](https://github.com/suchestoncampbelllab/gwasurvivr)
-
+[gwasurvivr supplementary data](https://github.com/suchestoncampbelllab/gwasurvivr_manuscript) 
 
 1 Abbas Rizvi, 1 Ezgi Karaesmen, 2 Martin Morgan and 1 Lara Sucheston-Campbell
 
