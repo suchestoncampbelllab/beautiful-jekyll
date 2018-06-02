@@ -1,0 +1,16 @@
+---
+layout: post
+title: It was a very good week
+subtitle: Student successes 
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+date: 2018-06-02 13:00
+tags: [pelotonia, BioC2018]
+---
+
+What a great week in the Sucheston-Campbell lab! I have zero accomplishments to report, but thank god I have 2 PhD students, who keep achieving great things! Without further ado:
+[Ezgi Karaemen] (https://karaesmen.github.io) was awarded a [Pelotonia Graduate Fellowship](https://cancer.osu.edu/research-and-education/pelotonia-funded-research/pelotonia-fellowship-program) for project "The role of pharmacogenomics in survival outcomes following blood or marrow transplant" This two year award was the result of a very competitive grant application process and the lab couldn't be more thrilled for her!
+
+[Abbas Rizvi] (https://scholar.google.ca/citations?user=AkjWKAsAAAAJ&hl=en) has a development version of [gwasurvivr](https://bioconductor.org/packages/3.8/bioc/html/gwasurvivr.html) available for doing genome wide survival analyses in R. Modifications to the coxph function make analyses very fast and the package is user friendly for R beginners (yes really). Abbas submitted an abstract and it was selected for a talk at [BioC 2018] (https://bioc2018.bioconductor.org/talks-community). Way to represent the lab!
+
+On a semi-related note my week had another dollop of science joy when I opened the agenda for a meeting [InterLymph 2018] (https://epi.grants.cancer.gov/InterLymph/) and as I scanned the list I see that in the same section I'm speaking, but kicking off the session, is my former PhD student Alyssa Clay-Gilmour giving a talk on Multiple Myeloma and Survival; definitely a case of mentee exceeding the mentor! 
