@@ -1,1 +1,2 @@
 
+As the school year starts we are delighted to welcome two new members to the lab. Yiwen Wang who is coming to us from Georgetown University where she got a MS in Biostatistics and Hancong Tang who recently transferred into  the College of Pharmacy and will be pursuing her dissertation research in conjunction with collaborators in the Department of Statistics at Ohio State. Welcome we are thrilled you are here! 
