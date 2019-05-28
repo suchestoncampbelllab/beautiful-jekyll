@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations, Dr. Rizvi
+title: Congratulations Dr. Abbas Rizvi
 #bigimg: /img/path.jpg
 #tags: [Spring2019, graduation]
 date: 2018-05-28 09:45
